@@ -1,0 +1,61 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header > h1 {
+  text-align: center;
+  font-weight: 500;
+}
+
+header > img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.statement {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.statement > h3 {
+  font-weight: 400;
+}
+
+.flex-container {
+	padding-top: 30px;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-item {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.fa-facebook-f:before, .fa-facebook:before {
+  color: #555E65;
+}
+
+.fa-instagram:before {
+  color: #555E65;
+}
+
+.fa-youtube:before {
+  color: #555E65;
+}
+
+.fa-envelope-o:before {
+  color: #555E65;
+}
+
+.fa-phone:before {
+  color: #555E65;
+}

@@ -12,7 +12,7 @@ var nsOptions = {
     pauseOnHover: false,
     keyboardNav: true,
     before: null,
-    license: "mylicense"
+    license: "b2t566"
 };
 
 var nslider = new NinjaSlider(nsOptions);
